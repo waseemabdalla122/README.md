@@ -1,4 +1,4 @@
-Privacy Policy
+
 Effective Date: January 28, 2025
 
 Your privacy is important to us. This Privacy Policy explains how we collect, use, and safeguard your information when you use our Google Chrome extension ("the Extension"). By using the Extension, you agree to the practices outlined in this Privacy Policy.
